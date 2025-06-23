@@ -100,3 +100,4 @@ D:\fourth\SE2\HomeWork_4\LoanApp.Tests\obj\Debug\net9.0\refint\LoanApp.Tests.dll
 D:\fourth\SE2\HomeWork_4\LoanApp.Tests\obj\Debug\net9.0\LoanApp.Tests.pdb
 D:\fourth\SE2\HomeWork_4\LoanApp.Tests\obj\Debug\net9.0\LoanApp.Tests.genruntimeconfig.cache
 D:\fourth\SE2\HomeWork_4\LoanApp.Tests\obj\Debug\net9.0\ref\LoanApp.Tests.dll
+D:\fourth\SE2\HomeWork_4\LoanApp.Tests\obj\Debug\net9.0\LoanApp.Tests.sourcelink.json
