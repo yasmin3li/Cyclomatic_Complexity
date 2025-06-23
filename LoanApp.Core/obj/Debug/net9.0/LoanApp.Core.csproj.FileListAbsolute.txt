@@ -1,0 +1,11 @@
+D:\fourth\SE2\HomeWork_4\LoanApp.Core\bin\Debug\net9.0\LoanApp.Core.deps.json
+D:\fourth\SE2\HomeWork_4\LoanApp.Core\bin\Debug\net9.0\LoanApp.Core.dll
+D:\fourth\SE2\HomeWork_4\LoanApp.Core\bin\Debug\net9.0\LoanApp.Core.pdb
+D:\fourth\SE2\HomeWork_4\LoanApp.Core\obj\Debug\net9.0\LoanApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\fourth\SE2\HomeWork_4\LoanApp.Core\obj\Debug\net9.0\LoanApp.Core.AssemblyInfoInputs.cache
+D:\fourth\SE2\HomeWork_4\LoanApp.Core\obj\Debug\net9.0\LoanApp.Core.AssemblyInfo.cs
+D:\fourth\SE2\HomeWork_4\LoanApp.Core\obj\Debug\net9.0\LoanApp.Core.csproj.CoreCompileInputs.cache
+D:\fourth\SE2\HomeWork_4\LoanApp.Core\obj\Debug\net9.0\LoanApp.Core.dll
+D:\fourth\SE2\HomeWork_4\LoanApp.Core\obj\Debug\net9.0\refint\LoanApp.Core.dll
+D:\fourth\SE2\HomeWork_4\LoanApp.Core\obj\Debug\net9.0\LoanApp.Core.pdb
+D:\fourth\SE2\HomeWork_4\LoanApp.Core\obj\Debug\net9.0\ref\LoanApp.Core.dll
